@@ -5,6 +5,7 @@ assets
 !.vscode/extensions.json
 .idea
 .DS_Store
+.history
 *.suo
 *.ntvs*
 *.njsproj
