@@ -1,0 +1,7 @@
+# HTML(JSP) + React Sample
+
+cd react
+npm install
+npm run dev
+
+http://localhost:5173
